@@ -1,0 +1,14 @@
+body {
+    background-color: #242424;
+} 
+
+/* seems to only change Add a new post */
+h3
+{
+    color: #33AD5C;
+}
+/* Changes all the comment colors */
+div
+{
+    color: white;
+}
